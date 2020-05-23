@@ -1,0 +1,8 @@
+C:\Programming\Projects\С#\My store\Store.DATA\bin\Debug\netcoreapp3.1\Store.DATA.deps.json
+C:\Programming\Projects\С#\My store\Store.DATA\bin\Debug\netcoreapp3.1\Store.DATA.dll
+C:\Programming\Projects\С#\My store\Store.DATA\obj\Debug\netcoreapp3.1\Store.DATA.AssemblyInfoInputs.cache
+C:\Programming\Projects\С#\My store\Store.DATA\obj\Debug\netcoreapp3.1\Store.DATA.AssemblyInfo.cs
+C:\Programming\Projects\С#\My store\Store.DATA\obj\Debug\netcoreapp3.1\Store.DATA.csprojAssemblyReference.cache
+C:\Programming\Projects\С#\My store\Store.DATA\bin\Debug\netcoreapp3.1\Store.DATA.pdb
+C:\Programming\Projects\С#\My store\Store.DATA\obj\Debug\netcoreapp3.1\Store.DATA.dll
+C:\Programming\Projects\С#\My store\Store.DATA\obj\Debug\netcoreapp3.1\Store.DATA.pdb
